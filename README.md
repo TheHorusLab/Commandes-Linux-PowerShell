@@ -1,9 +1,9 @@
 # PowerShell - Quête 1 </br>
-### Commandes et équivalents Linux - PowerShell
+### Commandes et équivalents Unix - PowerShell
 <br>
 <br>
 
-**<ins>Les commandes Linux</ins>** 
+**<ins>Les commandes Unix</ins>** 
 
 <br> copier un fichier : cp (copy) </br>
 <br> supprimer un fichier : rm (remove) </br>
