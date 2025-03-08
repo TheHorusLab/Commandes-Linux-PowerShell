@@ -5,14 +5,14 @@
 
 **<ins>Les commandes Linux</ins>** 
 
-<br> copier un fichier : cp </br>
-<br> supprimer un fichier : rm </br>
-<br> changer de répertoire : cd </br>
-<br> créer un dossier : mkdir </br>
-<br> manuel des commandes : man </br>
+<br> copier un fichier : cp (copy) </br>
+<br> supprimer un fichier : rm (remove) </br>
+<br> changer de répertoire : cd (change directory) </br>
+<br> créer un dossier : mkdir (make directory) </br>
+<br> manuel des commandes : man (manual) </br>
 <br> historique des commandes : history </br>
 <br> créer un raccourci d'une commande :alias </br>
-<br> afficher le contenu d'un fichier: cat </br>
+<br> afficher le contenu d'un fichier: cat (concatenate) </br>
 
 <br>
 <br>
