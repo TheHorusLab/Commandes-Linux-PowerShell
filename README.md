@@ -24,7 +24,7 @@
 <br> changer de répertoire : Set-Location </br>
 <br> créer un dossier : New-Item </br>
 <br> manuel des commandes : Get-Help </br>
-<br> historique des commandes : history </br>
+<br> historique des commandes : Get-History </br>
 <br> créer un raccourci d'une commande : New-Alias </br>
 <br> afficher le contenu d'un fichier: Get-Content </br>
 
