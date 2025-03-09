@@ -5,28 +5,28 @@
 
 **<ins>Les commandes Unix</ins>** 
 
-<br> copier un fichier : cp (copy) </br>
-<br> supprimer un fichier : rm (remove) </br>
-<br> changer de répertoire : cd (change directory) </br>
-<br> créer un dossier : mkdir (make directory) </br>
-<br> manuel des commandes : man (manual) </br>
+<br> copier un fichier : cp (copy) ex: cp fichier1 </br>
+<br> supprimer un fichier : rm (remove) ex: rm fichier1 </br>
+<br> changer de répertoire : cd (change directory) ex: cd /home/users/wilder/Téléchargements </br>
+<br> créer un dossier : mkdir (make directory) ex: mkdir dossier1 </br>
+<br> manuel des commandes : man (manual) ex: man ls </br>
 <br> historique des commandes : history </br>
-<br> créer un raccourci d'une commande :alias </br>
-<br> afficher le contenu d'un fichier: cat (concatenate) </br>
+<br> créer un raccourci d'une commande :alias ex: alias up="sudo apt update && sudo apt upgrade" </br>
+<br> afficher le contenu d'un fichier: cat (concatenate) ex: cat /home/users/wilder/fichier1 </br>
 
 <br>
 <br>
 
 **<ins>Les commandes PowerShell</ins>**
 
-<br> copier un fichier : Copy-Item </br>
-<br> supprimer un fichier : Remove-Item </br>
-<br> changer de répertoire : Set-Location </br>
-<br> créer un dossier : New-Item </br>
-<br> manuel des commandes : Get-Help </br>
-<br> historique des commandes : Get-History </br>
-<br> créer un raccourci d'une commande : New-Alias </br>
-<br> afficher le contenu d'un fichier: Get-Content </br>
+<br> copier un fichier : Copy-Item exemple: Copy-Item "fichier1" -Destination "C:\Documents\dossier1" </br>
+<br> supprimer un fichier : Remove-Item exemple: Remove-Item -Path 'C:\Windows\test1.txt </br>
+<br> changer de répertoire : Set-Location exemple: Set-Location -Path C:\Documents </br>
+<br> créer un dossier : New-Item exemple: New-Item -Path Dossier1 -ItemType Directory </br>
+<br> manuel des commandes : Get-Help exemple: Get-Help Copy </br>
+<br> historique des commandes : Get-History exemple : Get-History -Count 2 (ajout de l'argument -Count pour afficher l'historique des 2 dernières commandes) </br>
+<br> créer un raccourci d'une commande : New-Alias exemple: New-Alias -Name "Shortcut" Get-Help </br>
+<br> afficher le contenu d'un fichier: Get-Content exemple: Get-Content -Path "C:\Documents\test1.txt"</br>
 
 <br>
 <br>
