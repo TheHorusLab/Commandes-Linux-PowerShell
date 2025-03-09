@@ -33,6 +33,7 @@
 
 **<ins> Les lignes de commandes utilisées pour trouver les cmdlets PowerShell</ins>**
 
+Tentatives avec les commandes Unix --> Suggestions correspondantes proposées par PowerShell --> Vérifications avec l'argument -Online
 
 <br> Get-Help cp </br>
 <br> Get-Help Copy-Item -Online </br>
@@ -42,6 +43,7 @@
 <br> Get-Help Set-Location -Online </br>
 <br> Get-Help mkdir </br>
 <br> Get-Help New-Item -Online </br>
+<br> Get-Help History </br>
 <br> Get-Help Get-History -Online </br>
 <br> Get-Help Alias </br>
 <br> Get-Help New-Alias -Online </br>
